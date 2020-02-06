@@ -4,7 +4,7 @@ Resources for testing conversion from PAGE XML to ALTO
 ## Used fork and branch
 * **[Fork – dev](https://github.com/maxnth/prima-core-libs/tree/dev)**
     * Contains all feature branches of the branch but the branch "[feature/AdvanceTags](https://github.com/maxnth/prima-core-libs/tree/feature/AdvancedTags)"
-* **[Branch - feature/AdvanceTags](https://github.com/maxnth/prima-core-libs/tree/feature/AdvancedTags)
+*  **[Branch - feature/AdvanceTags](https://github.com/maxnth/prima-core-libs/tree/feature/AdvancedTags)**
     * Adds more "advanced" tags (see: extra_regions_advancedTags.xml).
 
 ## Repository Layout
